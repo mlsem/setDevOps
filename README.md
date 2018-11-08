@@ -1,2 +1,2 @@
-# setDevOps
-setDevOps goal is building your DevOps profile
+# setDevOps-lab
+setDevOps-lab goal is building your DevOps profile
